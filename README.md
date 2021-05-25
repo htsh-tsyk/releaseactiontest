@@ -5,8 +5,8 @@ A test line for :fix.
 
 # Heading 1
 
-- list1
-- list2
+- *list1*
+- *list2*
 
 
 ## Heading 2

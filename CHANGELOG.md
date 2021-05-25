@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.3.0...v1.4.0) (2021-05-25)
+
+
+### Features
+
+* remove whole secions ([ed4d882](https://www.github.com/htsh-tsyk/releaseactiontest/commit/ed4d882b253178025857616f673eff0aab68e329))
+
 ## [1.3.0](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.2.0...v1.3.0) (2021-05-25)
 
 

@@ -11,4 +11,3 @@ jobs:
         uses: google-github-actions/release-please-action@v2.19.2
         with:
           release-type: simple
-          # package-name: release-please-action

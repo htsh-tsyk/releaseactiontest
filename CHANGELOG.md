@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.2.0...v1.3.0) (2021-05-25)
+
+
+### Features
+
+* **README:** add Heading 1 section ([27e9880](https://www.github.com/htsh-tsyk/releaseactiontest/commit/27e98801fdec6cbc23fee61b4eddada29c4faae3))
+* **README:** add more list ([12ae8bc](https://www.github.com/htsh-tsyk/releaseactiontest/commit/12ae8bcc9a06beafcdb6878a7fbb20ddeb822a12))
+* **style:** apply bold style ([ad57783](https://www.github.com/htsh-tsyk/releaseactiontest/commit/ad57783f4f92bbb31f8d5100423509d69f7d3ed4))
+
 ## [1.2.0](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.1.0...v1.2.0) (2021-05-25)
 
 

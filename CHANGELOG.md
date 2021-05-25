@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.1.0...v1.2.0) (2021-05-25)
+
+
+### Features
+
+* add Heading 2 section to README. ([fda6182](https://www.github.com/htsh-tsyk/releaseactiontest/commit/fda6182f9584896fe1ded0f6e18bd0a3f8958c02))
+
+
+### Bug Fixes
+
+* remove commntouted lines. ([f28e658](https://www.github.com/htsh-tsyk/releaseactiontest/commit/f28e658749fa8d3b5bb21aff4907064daf3a32e1))
+
 ## [1.1.0](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.0.0...v1.1.0) (2021-05-25)
 
 

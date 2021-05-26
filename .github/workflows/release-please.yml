@@ -7,15 +7,8 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - name: release-please-action
-        uses: google-github-actions/release-please-action@v2.19.2
-        with:
-          release-type: simple
-      - uses: yokawasa/action-setup-kube-tools@v0.7.1
-        with:
-          kustomize-version: "4.1.3"
-          skaffold: '1.24.1'
-      - run: |
-          kustomize version
-      - run: |
-          skaffold version
+      # - name: release-please-action
+      #   uses: google-github-actions/release-please-action@v2.19.2
+      #   with:
+      #     release-type: simple
+

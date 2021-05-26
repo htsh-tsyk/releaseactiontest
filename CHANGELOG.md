@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.0](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v2.0.0...v2.1.0) (2021-05-26)
+
+
+### Features
+
+* add manifest pr and manifest ([468095f](https://www.github.com/htsh-tsyk/releaseactiontest/commit/468095f023a4f4d6d8fb835005b7c5cfd99607ea))
+
+
+### Bug Fixes
+
+* **github-action:** fix manifest-pr ([62931a1](https://www.github.com/htsh-tsyk/releaseactiontest/commit/62931a1de600df7aa281e5962ef83574716eeec1))
+
 ## [2.0.0](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.4.0...v2.0.0) (2021-05-26)
 
 

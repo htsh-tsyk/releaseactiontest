@@ -12,4 +12,5 @@ jobs:
           release-type: simple
           monorepo-tags: true
           path: service1/
+          package-name: service1
           command: release-pr

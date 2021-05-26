@@ -1,5 +1,23 @@
 # Changelog
 
+## 2.1.0 (2021-05-26)
+
+
+### Features
+
+* feat1 ([bfbe624](https://www.github.com/htsh-tsyk/releaseactiontest/commit/bfbe624eca67b288c59773a287c4a6d415fd5b93))
+* initial commit ([3d616cf](https://www.github.com/htsh-tsyk/releaseactiontest/commit/3d616cf37ce5f9ff0ef84b5861ee38eb7c504843))
+* **service1:** feat2 ([79c083a](https://www.github.com/htsh-tsyk/releaseactiontest/commit/79c083ac4ba5d672daeab5f604d5793940016c00))
+* **service1:** feat3 ([ed6f2d8](https://www.github.com/htsh-tsyk/releaseactiontest/commit/ed6f2d86b59a584a85cdca52c876cbd24907a4b6))
+* **service1:** feat4 ([16a81a7](https://www.github.com/htsh-tsyk/releaseactiontest/commit/16a81a76d67ed39c2ff4eb91d184f5a184447a09))
+
+
+### Bug Fixes
+
+* **service1:** fix1 ([d01f148](https://www.github.com/htsh-tsyk/releaseactiontest/commit/d01f14839bbe36ca996939896edbc285b93e07e0))
+* **service1:** fix1 ([56a73f3](https://www.github.com/htsh-tsyk/releaseactiontest/commit/56a73f3d6a455ab5387372ba339ef9129c09a004))
+* **service2:** fix2 ([a63ca8a](https://www.github.com/htsh-tsyk/releaseactiontest/commit/a63ca8a0a49496df0fc0aa4686b2dcf27b097e7e))
+
 ## [1.4.0](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.3.0...v1.4.0) (2021-05-25)
 
 

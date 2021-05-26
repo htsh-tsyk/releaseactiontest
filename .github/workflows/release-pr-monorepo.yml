@@ -1,0 +1,16 @@
+name: release-pr-monorepo
+on:
+  workflow_dispatch:
+    inputs:
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - name: release-please-action
+        uses: google-github-actions/release-please-action@v2.19.2
+        with:
+          release-type: simple
+          monorepo-tags: true
+          path: service1/
+          package-name: service1
+          command: release-pr

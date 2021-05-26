@@ -7,6 +7,9 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
+      - name: Skip
+        run: |
+          echo Skip
       # - name: release-please-action
       #   uses: google-github-actions/release-please-action@v2.19.2
       #   with:

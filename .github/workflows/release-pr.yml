@@ -10,5 +10,5 @@ jobs:
         uses: google-github-actions/release-please-action@v2.19.2
         with:
           release-type: simple
-          bump-minor-pre-major: false
+          bump-minor-pre-major: "true"
           command: release-pr

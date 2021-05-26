@@ -17,4 +17,5 @@ jobs:
           skaffold: '1.24.1'
       - run: |
           kustomize version
+      - run: |
           skaffold version

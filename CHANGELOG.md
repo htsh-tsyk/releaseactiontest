@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.0](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.4.0...v2.0.0) (2021-05-26)
+
+
+### Features
+
+* test ([ece4d47](https://www.github.com/htsh-tsyk/releaseactiontest/commit/ece4d473968eef28693eb4eb93cb6ac20b72b715))
+
 ## [1.4.0](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.3.0...v1.4.0) (2021-05-25)
 
 

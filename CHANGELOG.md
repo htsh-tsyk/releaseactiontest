@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.0.0](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.4.0...v2.0.0) (2021-05-26)
+
+
+### Features
+
+* release-pr ([ff69af9](https://www.github.com/htsh-tsyk/releaseactiontest/commit/ff69af9f07bb823436bba333d3f50b692f609f90))
+* test ([ece4d47](https://www.github.com/htsh-tsyk/releaseactiontest/commit/ece4d473968eef28693eb4eb93cb6ac20b72b715))
+
+
+### Bug Fixes
+
+* **github-action:** change name for release-pr task ([c26086e](https://www.github.com/htsh-tsyk/releaseactiontest/commit/c26086e273a99013dad7f4b7549ea8f1674d25c9))
+
 ## [1.4.0](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.3.0...v1.4.0) (2021-05-25)
 
 

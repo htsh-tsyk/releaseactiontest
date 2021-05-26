@@ -1,0 +1,13 @@
+name: manifest-pr
+on:
+  workflow_dispatch:
+manifest-pr    inputs:
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - name: release-please-action
+        uses: google-github-actions/release-please-action@v2.19.2
+        with:
+          release-type: simple
+          command: manifest-pr

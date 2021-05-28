@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.0.0...v1.0.1) (2021-05-28)
+
+
+### Miscellaneous
+
+* add service3 ([cadd181](https://www.github.com/htsh-tsyk/releaseactiontest/commit/cadd18180fe2436572a19a447591a2440438e003))
+* add service4 ([be62154](https://www.github.com/htsh-tsyk/releaseactiontest/commit/be6215454eeeda3355b60f0e722c7efdf5fde928))
+
 ## 1.0.0 (2021-05-28)
 
 

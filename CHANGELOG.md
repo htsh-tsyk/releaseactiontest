@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.5](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.1.4...v1.1.5) (2021-05-28)
+
+
+### Miscellaneous
+
+* this commit should be set false or null to release step ([52d5464](https://www.github.com/htsh-tsyk/releaseactiontest/commit/52d5464608cf9a129cf915f07f5c8117a393ad59))
+
 ### [1.1.4](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.1.3...v1.1.4) (2021-05-28)
 
 

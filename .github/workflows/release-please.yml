@@ -27,6 +27,8 @@ jobs:
         with:
           ref: ${{ needs.release-please.outputs.tag_name }}
       - run: |
+          git branch
+      - run: |
           cat CHANGELOG.md
   build-p:
     runs-on: ubuntu-latest

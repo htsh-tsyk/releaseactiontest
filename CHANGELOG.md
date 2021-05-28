@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.2](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.1.1...v1.1.2) (2021-05-28)
+
+
+### Miscellaneous
+
+* add id to release step ([309b6be](https://www.github.com/htsh-tsyk/releaseactiontest/commit/309b6bebea5be27b87b832ceb20f64e22ffedde7))
+
 ### [1.1.1](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.1.0...v1.1.1) (2021-05-28)
 
 

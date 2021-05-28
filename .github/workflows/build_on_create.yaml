@@ -1,0 +1,12 @@
+name: Build
+on:
+  create:
+    tags:
+      - v*
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Build
+        run: echo run make build

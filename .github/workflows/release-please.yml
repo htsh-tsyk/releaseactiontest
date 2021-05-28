@@ -12,3 +12,10 @@ jobs:
         with:
           release-type: simple
           changelog-types: '[{"type":"feat","section":"Features","hidden":false},{"type":"fix","section":"Bug Fixes","hidden":false},{"type":"chore","section":"Miscellaneous","hidden":false}]'
+      - if: ${{ steps.release.outputs.release_created }} == true
+        run: |
+          echo release created
+      - if: ${{ steps.release.outputs.release_created }} == false
+        run: |
+          echo release is not created
+

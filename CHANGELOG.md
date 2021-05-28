@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.2](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.0.1...v1.0.2) (2021-05-28)
+
+
+### Miscellaneous
+
+* test ([00a07db](https://www.github.com/htsh-tsyk/releaseactiontest/commit/00a07db3aacf716b3bb834fac77156a561577c50))
+* test ([5b338b5](https://www.github.com/htsh-tsyk/releaseactiontest/commit/5b338b570c7846db4315a37f596c1ead715f0184))
+
 ### [1.0.1](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.0.0...v1.0.1) (2021-05-28)
 
 

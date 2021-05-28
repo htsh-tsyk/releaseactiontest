@@ -17,7 +17,11 @@ jobs:
       - if: ${{ steps.release.outputs.release_created }} == 'true'
         run: |
           echo release created
+      - if: ${{ steps.release.outputs.release_created }}
+        run: |
+          echo release created2
       - if: ${{ steps.release.outputs.release_created }} == 'false'
         run: |
           echo release is not created
+
 

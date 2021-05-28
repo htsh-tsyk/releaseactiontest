@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.1](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.1.0...v1.1.1) (2021-05-28)
+
+
+### Miscellaneous
+
+* add actions/checkout@v2 to release-please workflow ([780eae1](https://www.github.com/htsh-tsyk/releaseactiontest/commit/780eae144d4e73efddbb6a7b819758a5a41786a4))
+
 ## [1.1.0](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.0.1...v1.1.0) (2021-05-28)
 
 

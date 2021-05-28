@@ -21,15 +21,9 @@ jobs:
       - if: ${{ steps.release.outputs.release_created }} == 'true'
         run: |
           echo release created2
-      - if: ${{ steps.release.outputs.release_created == true}}
-        run: |
-          echo release created3
       - if: ${{ steps.release.outputs.release_created == 'true'}}
         run: |
           echo release created4
-      - if: ${{ steps.release.outputs.release_created }} == 'false'
-        run: |
-          echo release is not created2
       - if: ${{ steps.release.outputs.release_created == false}}
         run: |
           echo release is not created3
@@ -42,7 +36,7 @@ jobs:
     if: always()
     steps:
       - run: |
-          echo needs.release-please.steps.release.outputs.release_created
+          echo ${{needs.release-please.steps.release.outputs.release_created}}
       - if: ${{ needs.release-please.steps.release.outputs.release_created }}
         run: |
           echo release created1

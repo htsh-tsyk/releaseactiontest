@@ -1,5 +1,21 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.0.0...v1.0.1) (2021-05-28)
+
+
+### Miscellaneous
+
+* add service3 ([cadd181](https://www.github.com/htsh-tsyk/releaseactiontest/commit/cadd18180fe2436572a19a447591a2440438e003))
+* add service4 ([be62154](https://www.github.com/htsh-tsyk/releaseactiontest/commit/be6215454eeeda3355b60f0e722c7efdf5fde928))
+* **github-action:** add if condition ([a588b68](https://www.github.com/htsh-tsyk/releaseactiontest/commit/a588b6809ac5b1436ab9c434eb1f11fb2d13ca11))
+* **github-action:** add if condition ([ef96194](https://www.github.com/htsh-tsyk/releaseactiontest/commit/ef961945ae625baaf2de2a0eeb5222341e06f2b2))
+* **github-action:** add if condition ([c7cf65e](https://www.github.com/htsh-tsyk/releaseactiontest/commit/c7cf65e8efb5f7550a7c8092ddf10f715bd3215d))
+* **github-action:** add if condition ([93fbe94](https://www.github.com/htsh-tsyk/releaseactiontest/commit/93fbe94bea07e1c5deac3e81751d8bcb456f5bfc))
+* **github-action:** add if condition ([058cc1d](https://www.github.com/htsh-tsyk/releaseactiontest/commit/058cc1dda77eab1f40af088f86d22e516e6c74a7))
+* hide chore ([f66a2ec](https://www.github.com/htsh-tsyk/releaseactiontest/commit/f66a2ecc55eb0a1dcbca9a9999657a767258ef73))
+* test ([7a5d410](https://www.github.com/htsh-tsyk/releaseactiontest/commit/7a5d410260e2f3556711dc8abe15ce353c4238ea))
+* test2 ([e799fb6](https://www.github.com/htsh-tsyk/releaseactiontest/commit/e799fb64f026861ab0193a0246dee881f99b07b6))
+
 ## 1.0.0 (2021-05-28)
 
 

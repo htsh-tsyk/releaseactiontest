@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.1.5...v1.2.0) (2021-05-28)
+
+
+### Features
+
+* add build-p and build-s job ([e4a01ce](https://www.github.com/htsh-tsyk/releaseactiontest/commit/e4a01ce5b7b9d245ecac4fb89b8dcbf449805ee8))
+* add build-p and build-s job ([7d6b3a4](https://www.github.com/htsh-tsyk/releaseactiontest/commit/7d6b3a4ec5d29bb0b6227b8d9fb13aa1cfbf0d53))
+* add build-p and build-s job ([ec36693](https://www.github.com/htsh-tsyk/releaseactiontest/commit/ec366936081654e800c3672417b0f020ee4469e2))
+* add build-p and build-s job ([f7d0a58](https://www.github.com/htsh-tsyk/releaseactiontest/commit/f7d0a5811bb3edc9d9dc6035a6b9a888c8e60590))
+
 ### [1.1.5](https://www.github.com/htsh-tsyk/releaseactiontest/compare/v1.1.4...v1.1.5) (2021-05-28)
 
 
